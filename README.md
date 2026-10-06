@@ -19,4 +19,4 @@ Run `npm ci`, then `npm run dev`, and open `http://localhost:3000/`. Use `npm ru
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
