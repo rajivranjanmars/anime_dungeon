@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useInView } from "react-intersection-observer";
 import { useEffect, useState } from "react";
+import type { JSX } from "react";
 
 import { fetchAnime } from "../app/action";
 
