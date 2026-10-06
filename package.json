@@ -29,7 +29,7 @@
     "globals": "^17.13.0",
     "postcss": "^8",
     "tailwindcss": "^4.3.3",
-    "typescript": "^5"
+    "typescript": "^7"
   },
   "author": {
     "name": "rajivranjanmars",
