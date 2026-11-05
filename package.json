@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "framer-motion": "^14.9.0",
-    "next": "^16.4.1",
+    "next": "^16.4.3",
     "react": "^19",
     "react-dom": "^19.3.0",
     "react-intersection-observer": "^11.0.1"
